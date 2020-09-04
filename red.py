@@ -25,7 +25,7 @@ from cogs.utils.dataIO import dataIO
 from cogs.utils.chat_formatting import inline
 from collections import Counter
 from io import TextIOWrapper
-from slackclient import slack
+from slack import WebClient
 
 #
 # Red Magician, a Discord bot by dealien, built off of Red Discord Bot
