@@ -14,4 +14,3 @@ pillow
 dota2py 
 requests
 slackclient
-pprint
